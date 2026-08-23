@@ -12,7 +12,7 @@ This homelab is a home server used to practice sysadmin and IT Help Desk activit
 
 ### Network Access
 * Local IP Address: 10.0.0.195
-* Tailscale IP Address: 100.71.101.11 [Download Tailscale here.](https://tailscale.com/download)
+* Tailscale IP Address: 100.71.101.11 ([Download Tailscale here.](https://tailscale.com/download))
 * Hostname (Local and Tailscale): mia-svr-web01/
 ### Ports
 #### Docker

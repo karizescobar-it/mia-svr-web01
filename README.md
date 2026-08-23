@@ -14,28 +14,25 @@ This homelab is a home server used to practice sysadmin and IT Help Desk activit
 * Tailscale IP Address: 100.71.101.11
 * Hostname (Local and Tailscale): mia-svr-web01/
 
-Ports
-* Docker containers
-- Jellyfin (media server) — port 8096
-- Zammad Ticketing System — port 8080
-* Simple Web Server instances
+* Docker Container Ports
+Jellyfin (media server) — port 8096
+Zammad Ticketing System — port 8080
+* Simple Web Server Ports
 - Hello World! — port 591
 - KJV Bible — port 80
 
 ## Troubleshooting Checklist
--------------------------
 If a service is unreachable
-Docker
+* Docker
 1. docker ps — is the container running?
 2. docker logs <container> or docker-compose logs <service> — look for errors
 3. docker inspect <container> — check port bindings & network mode
 4. Check volume mounts for permission errors
-Simple Web Server
+* Simple Web Server
 1. Check with GUI if Server is toggled on with yellow switch
 2. Check if port matches the correct setting (e.g. port 80 with HTTPS disabled, port 443 with HTTPS enabled)
 
 ## Security
-## --------
 Tailscale encrypts every connection to this server.
 
 

@@ -8,7 +8,7 @@ This homelab is a home server used to practice sysadmin and IT Help Desk activit
 - Practice tasks of IT Help Desk tiers 1 and 2; remote desktop, simple networking concepts, software error troubleshooting
 - Practice with command line interfaces; WSL, Powershell, CMD, SSH
 
-## General Information
+### General Information
 
 * Network Access
 Local IP Address: 10.0.0.195

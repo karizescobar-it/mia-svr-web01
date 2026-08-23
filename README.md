@@ -1,7 +1,7 @@
 # Home Server for Information Technology Experimentation
 
 # Overview
-This homelab is a home server used to practice sysadmin and IT Help Desk activities. It runs 2 Docker containers and 2 instances of Simple Web Server. Each container and instance is set to be connected to remotely through Tailscale's VPN client. 
+This device is a home server used to practice sysadmin and IT Help Desk activities. It runs 2 Docker containers and 2 instances of Simple Web Server. Each container and instance is set to be connected to remotely through Tailscale's VPN client. 
 
 ## Purpose
 - Practice Junior Sysadmin tasks; server administration, basic monitoring and log review, networking, database operations

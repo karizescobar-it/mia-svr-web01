@@ -5,7 +5,7 @@ This homelab is a home server used to practice sysadmin and IT Help Desk activit
 
 ## Purpose
 - Practice Junior Sysadmin tasks; server administration, basic monitoring and log review, networking, database operations
-- Practice tasks of IT Help Desk tiers 1 and 2; remote desktop, using ticketing systems, software error troubleshooting
+- Practice tasks of IT Help Desk tiers 1 and 2; remote desktop, using a ticketing system, software error troubleshooting
 - Practice with command line interfaces; WSL, Powershell, CMD, SSH
 
 ## General Information

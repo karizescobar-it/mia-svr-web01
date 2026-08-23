@@ -15,10 +15,10 @@ This homelab is a home server used to practice sysadmin and IT Help Desk activit
 * Tailscale IP Address: 100.71.101.11
 * Hostname (Local and Tailscale): mia-svr-web01/
 ### Ports
-* Docker Containers
+#### Docker
 * Jellyfin (media server) — port 8096
 * Zammad Ticketing System — port 8080
-* Simple Web Server Instances
+#### Simple Web Server
 * Hello World! — port 591
 * KJV Bible — port 80
 
